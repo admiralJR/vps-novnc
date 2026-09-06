@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://procurement-actively-near-innovative.trycloudflare.com/vnc.html
+URL       : https://ranch-hub-harvest-mustang.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-06 17:35:47
+Created   : 2026-09-06 22:02:56
 =======================================================
