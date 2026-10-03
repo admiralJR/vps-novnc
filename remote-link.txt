@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://suggested-vocational-pcs-anatomy.trycloudflare.com/vnc.html
+URL       : https://hiv-begun-recruitment-floor.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-03 10:18:17
+Created   : 2026-10-03 18:37:00
 =======================================================
