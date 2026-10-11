@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://hear-biotechnology-flooring-reward.trycloudflare.com/vnc.html
+URL       : https://copied-relation-skills-november.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-11 04:48:40
+Created   : 2026-10-11 11:20:07
 =======================================================
