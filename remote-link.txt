@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://restricted-badge-pierre-lexington.trycloudflare.com/vnc.html
+URL       : https://resist-happiness-structure-ricky.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-11 23:32:29
+Created   : 2026-10-12 05:04:01
 =======================================================
