@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://breakfast-minus-tract-cups.trycloudflare.com/vnc.html
+URL       : https://observed-payments-discounts-made.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-16 18:45:25
+Created   : 2026-10-16 22:43:37
 =======================================================
