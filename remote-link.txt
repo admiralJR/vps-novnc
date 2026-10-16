@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://arabic-seasons-graduate-parental.trycloudflare.com/vnc.html
+URL       : https://wells-columbus-appliance-slowly.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-16 09:35:54
+Created   : 2026-10-16 14:41:22
 =======================================================
