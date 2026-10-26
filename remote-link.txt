@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://spend-critics-menu-rebecca.trycloudflare.com/vnc.html
+URL       : https://epic-reduced-cornell-hampshire.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-26 10:52:12
+Created   : 2026-10-26 20:23:05
 =======================================================
