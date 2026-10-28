@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://med-presently-mass-mailman.trycloudflare.com/vnc.html
+URL       : https://transition-acting-reference-topic.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-28 11:08:11
+Created   : 2026-10-28 20:10:13
 =======================================================
