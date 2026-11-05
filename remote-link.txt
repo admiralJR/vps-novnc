@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://concentrations-stuffed-conducting-trio.trycloudflare.com/vnc.html
+URL       : https://expect-planet-viewing-visiting.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-04 21:08:31
+Created   : 2026-11-05 05:47:00
 =======================================================
